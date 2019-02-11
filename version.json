@@ -5,7 +5,7 @@
 	"minArchiVersion"=4.4.0
     "maxArchiVersion"=4.6.0
 	"notes": "3.0.0: Cartool release based upon Archi(r) v4.3.1 with support for EIRA v3.0.0\\n2.2.0: Cartool release based upon Archi(r) v4.2 with support for EIRAv2.1.0\\n2.1.0: Cartool release with support for EIRAv2.1.0\\n2.0.1: Allowing Cartography download from FTP and FTPS.\\n2.0.0: Cartool release based upon ArchiMate(r) v3 & Archi(r) v4 with support for EIRAv2.0.0\\n1.0.2: Added new ISA Product License v1.3\\n1.0.1: Included beta SATs for eID and eDelivery\\n1.0.0: First CarTool release"
-	"url": "https://raw.githubusercontent.com/francescotimperi/cartool/master/eu.europa.ec.eira.cartool_2.3.0.v20181123-1054.jar",
+	"url": "https://raw.githubusercontent.com/eiraeu/cartool/master/eu.europa.ec.eira.cartool_3.0.0.v20190211-1725.jar",
 	"md5": "13f6b07a910e7ba26d70d76a30c8a44e",
 	"updateUrl": "https://joinup.ec.europa.eu/solution/cartography-tool/version.json",
 	"warning": "-"
